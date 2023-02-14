@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohit
-- 👀 I’m interested in software
+- 👀 I’m interested in software development
 - 🌱 I’m currently pursuing bachlero's degree in Computer Science and Engineering.
 - 📫 Reach me on LinkedIn linkedin.com/in/mohit-sahu-89254b191
 
